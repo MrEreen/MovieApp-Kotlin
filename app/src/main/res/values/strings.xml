@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_profile">Profile</string>
+    <string name="title_comments">Yorumlar</string>
+    <string name="title_home">Movies</string>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="submit_comment">Submit Comment</string>
+    <string name="add_comment_hint">Add a comment</string>
+    <string name="movie_image_desc">Watched</string>
+    <string name="rating">IMDb: %1$s</string>
+</resources>
